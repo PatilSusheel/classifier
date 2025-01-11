@@ -12,7 +12,7 @@ npm start
 ```
 ### 3. commands to start backend:
 ```bash
-cd Backend
+cd backend
 pip install -r requirements.txt
 python app.py
 ```
